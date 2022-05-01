@@ -1,3 +1,4 @@
+⚡WELCOME⚡
 - I’m currently learning react
 - I’m currently learning node.js
 - I’m currently learning typescript
