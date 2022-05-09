@@ -1,7 +1,9 @@
 ⚡WELCOME⚡
 - I’m currently learning react
-- I’m currently learning node.js
 - I’m currently learning typescript
+- I’m currently learning node.js
+
+I'm trying daily commit!
 
 <!--
 **yeonsoo888/yeonsoo888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
